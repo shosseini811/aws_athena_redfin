@@ -1,1 +1,3 @@
-# aws_athena_redfin
+ In this project, we demonstrate how to use AWS Athena to analyze real estate data stored in CSV files on Amazon S3. We walk through the process of uploading a CSV file to S3, creating an Athena database and table, and running SQL queries to gain insights into the data. The code also showcases how to use Boto3 to interact with AWS services, format the Athena query output, and compare the results with a Pandas DataFrame for validation. This project serves as a practical guide for anyone looking to harness the power of AWS Athena and Python for data analysis in a scalable and serverless manner.
+ 
+You can have access to the full article [here](https://medium.com/@s.sadathosseini/analyzing-real-estate-data-with-aws-athena-and-python-4524fbd6aeff).
